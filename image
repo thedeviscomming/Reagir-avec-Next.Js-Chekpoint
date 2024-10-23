@@ -1,0 +1,5 @@
+import Image from 'next/image';
+
+const MyImage = () => (
+  <Image src="C:\Réagir avec Next.Js\public\images\2ddf2363-dd28-4a36-9620-3e5c21da31c1.JPG" alt="Description" width={500} height={300} />
+);

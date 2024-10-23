@@ -1,0 +1,11 @@
+.container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #0070f3;
+  }
+  
